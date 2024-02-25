@@ -1,1 +1,0 @@
-I finally realized that NoSQL is not Not SQL but Not Only SQL.
