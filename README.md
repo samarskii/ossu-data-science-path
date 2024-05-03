@@ -18,6 +18,8 @@ Also there will be my small personal Diary and my Certificates/Proofs of finishi
 
 ## My Rewiews for Courses
 
+### Introduction to Data Science
+
 1. [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 Well the first thing is that I completed it much faster than the promised time. If you count the time of all the free materials on Coursera, all four weeks, it will be 575 minutes of time and plus 112 minutes of Graded Assignment, and I managed in ~360 minutes passing all the materials and tests.
@@ -28,6 +30,7 @@ I especially liked the last 4 weeks, where they talked more about technical thin
 
 In general, all presentations and videos were very good, I liked the interviews with different guys, as well as chapters from books where they talked about how to solve problems differently and where Data Science is applied.
 
+### Introduction to Computer Science
 
 23. [Tool for data science](https://www.coursera.org/learn/open-source-tools-for-data-science)
 
