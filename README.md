@@ -32,6 +32,9 @@ In general, all presentations and videos were very good, I liked the interviews 
 
 ### Introduction to Computer Science
 
+
+### Data Science Tools & Methods
+
 23. [Tool for data science](https://www.coursera.org/learn/open-source-tools-for-data-science)
 
 The advertised course duration is 1080 minutes, but if you subtract all the paid quizzes, it amounts to 982 minutes of estimated time. I managed to complete it in 448 minutes, which is more than half the time faster than advertised.
